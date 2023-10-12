@@ -81,10 +81,20 @@
 
      
 
-   - ```
+   - ##### 上传文件：
+
+     ```
      git add .
      git commit -m "test"
      git push -u origin main
+     ```
+
+     
+
+   - ##### 删除文件：
+
+     ```
+     
      ```
 
      
