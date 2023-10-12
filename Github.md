@@ -63,21 +63,31 @@
      echo "# test" >> README.md
      git init
      git add README.md
-     git commit -m "first commit"
+     git commit -m "second commit"
      git branch -M main
-     git remote add origin git@github.com:JiuPin-2823/test.git
+     git remote add origin git@github.com:JiuPin-2823/Typora_ubuntu.git
      git push -u origin main
      ```
 
      
 
-   - or push an existing repository from the command line：
+   - or push an existing repository from the command li:
 
      ```
      git remote add origin git@github.com:JiuPin-2823/test.git
      git branch -M main
      git push -u origin main
      ```
+
+     
+
+   - ```
+     git add .
+     git commit -m "test"
+     git push -u origin main
+     ```
+
+     
 
      
 
