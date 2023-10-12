@@ -91,14 +91,5 @@
 
      
 
-   - ##### 删除文件：
-
-     ```
-     
-     ```
-
-     
-
-     
-
+   - ##### 删除文件：[deleting-files](https://docs.github.com/en/repositories/working-with-files/managing-files/deleting-files-in-a-repository)
 
